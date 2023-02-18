@@ -1,7 +1,11 @@
 TODO LIST TAMBAHAN
 - Makan
   * Ayam penyet sambel ijo
+   ^ 26000
+   ^ Gofood
 - Tidur Siang
 - Mandi
 - Nongkrong
+  * Basecamp
 - Tidur Malam
+- Bangun
