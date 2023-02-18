@@ -1,7 +1,8 @@
 TODO LIST TAMBAHAN
 - Makan
   * Ayam penyet sambel ijo
+    ^ 21000
+    ^ Grabfood
 - Tidur Siang
-- Mandi
 - Nongkrong
 - Tidur Malam
