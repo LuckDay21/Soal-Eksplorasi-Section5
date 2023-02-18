@@ -4,3 +4,4 @@ TODO LIST TAMBAHAN
 - Tidur Siang
 - Mandi
 - Nongkrong
+- Tidur Malam
