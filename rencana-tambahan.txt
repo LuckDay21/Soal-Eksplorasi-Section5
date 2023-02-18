@@ -5,4 +5,6 @@ TODO LIST TAMBAHAN
     ^ Grabfood
 - Tidur Siang
 - Nongkrong
+  * Basecamp
 - Tidur Malam
+- Bangun
